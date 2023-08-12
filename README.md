@@ -9,7 +9,7 @@ For testing:
 
 `php bin/console send:notification --type=sms --to="+905555555555" --message="Hello world"`
 
-`php bin/console send:notification --type=sms --to="a8b7c6d5e4f3g2h1" --message="Hello world"`
+`php bin/console send:notification --type=push --to="a8b7c6d5e4f3g2h1" --message="Hello world"`
 
 The notification class executed by this command is built with a factory design pattern.
 
