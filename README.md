@@ -1,6 +1,6 @@
 # Symfony Factory Design Pattern Sample
 
-This is an example of how to use factory design pattern in Symfony projects.
+It is an example of how to use the factory design pattern in Symfony projects.
 
 
 For testing:
